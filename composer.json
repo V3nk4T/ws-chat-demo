@@ -1,0 +1,10 @@
+{
+    "require": {
+        "cboden/Ratchet": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
+}
